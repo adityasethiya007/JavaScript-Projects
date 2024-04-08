@@ -1,0 +1,57 @@
+body{
+     
+     background-color: #33ffd8;
+     display: flex;
+     justify-content: center;
+     font-family: sans-serif;
+
+}
+.container{
+margin-top: 5%;
+width: 400px;
+height: fit-content;
+background-color:#445A6F;
+border-radius: 10px;
+
+
+
+}
+.screen{
+background-color: #040b13;
+border: none;
+padding: 10px;
+height: 100px;
+width: 95%;
+color: antiquewhite;
+font-size: xxx-large;
+margin-top: 10px;
+margin-bottom: 10px;
+
+
+
+}
+.Buttons{
+    display: flex;
+    flex-wrap:wrap ;
+
+
+}
+
+button{
+    flex: 20%;
+    font-size: 40px;
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    opacity: .8;
+    box-shadow: -8px -8px 15px 
+
+
+}
+.btn{
+
+
+
+
+}

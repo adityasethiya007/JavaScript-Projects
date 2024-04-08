@@ -1,0 +1,35 @@
+
+
+
+body{
+    background: #131313;
+}
+.DigitalClock{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    display: flex;
+    font-family: sans-serif;
+
+}
+.time{
+    background: #090909;
+    color: #ffffff;
+    font-size: 100px;
+    width: 150px;
+    margin: 0 10px;
+    text-align: center;
+
+    
+
+}
+.heading{
+color: #ffffff;
+text-align: center;
+font-size: 40px;
+font-style: bold;
+margin: 0 10px;
+
+
+}
